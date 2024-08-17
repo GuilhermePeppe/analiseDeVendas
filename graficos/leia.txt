@@ -1,0 +1,1 @@
+Alguns gráficos que resumem vendas de produtos (que foram renomeados), vendas por região, vendas diárias e ticket médio.
