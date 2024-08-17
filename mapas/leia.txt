@@ -1,0 +1,1 @@
+Mapas simbolizados com valores escalares de vendas por estado a cada trimestre. Os rótulos contêm o total em vendas e quantidade de vendas entre parênteses.
