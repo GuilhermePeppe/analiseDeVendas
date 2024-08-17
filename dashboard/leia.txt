@@ -1,0 +1,1 @@
+Este dashboard narra a progressão dos resultados de vendas online da loja ao longo dos três últimos trimestres de 2021 (a loja não efetuava vendas online até o fim do 1º trimestre).
